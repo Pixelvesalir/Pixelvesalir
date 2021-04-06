@@ -1,9 +1,1 @@
-<TextView
-		android:id="@+id/textview1"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:padding="8dp"
-		android:text="حلال"
-		android:textSize="60sp"
-		android:textColor="#000000"/>
-</LinearLayout>
+{"عنوان":"تست","متن":"1000"}
